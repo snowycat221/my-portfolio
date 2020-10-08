@@ -3,9 +3,9 @@ body{
  	/*font-family: 'Work Sans', sans-serif;*/
  	font-family: 'Quicksand', sans-serif;
  	/*font-family: 'Josefin Sans', sans-serif;*/
-	font-size:15px;
+	font-size:10px;
 	line-height: 30px;
-	color: black;
+	color: #ffc7c7;
 	background-color: white;
 	padding: 30px;
 
@@ -27,7 +27,7 @@ h1, h2{
 }
 
 h1{
-	FONT-SIZE:40PX;
+	FONT-SIZE:60PX;
 	font-weight: 1000px;
 }
 
@@ -36,10 +36,10 @@ header h1{
 	color: white;
 	position: absolute;
   	top: 50%;
- 	left: 50%;
+ 	left: 45%;
   	transform: translate(-50%, -50%);
-}    
-
+    
+}
 
 header img{
 	border-radius: 150px; 
@@ -61,7 +61,7 @@ main img{
 
 h2{
 	font-size:40px;
-	color: red;
+	color:#8a33cc;
 	margin: 40px 0 10px;
 	font-weight: 1000px;
 	text-shadow: 5px 4px 1px #000000b0; 
