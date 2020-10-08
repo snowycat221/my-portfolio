@@ -6,16 +6,14 @@ body{
 	font-size:10px;
 	line-height: 30px;
 	color: #ffc7c7;
-	background-color: #05241f;
+	background-color: white;
 	padding: 30px;
-	
-
 
 }
 
 header{
 	position: relative;
-	background-color: #05241f;
+	background-color: black;
 	text-align: center;
 	height: 445px;
 	text-shadow: 5px 4px 0px #05241f; 
@@ -35,7 +33,7 @@ h1{
 
 header h1{
 	/*color: #5affd1;*/
-	color: #dc5e4a;
+	color: white;
 	position: absolute;
   	top: 50%;
  	left: 45%;
@@ -53,7 +51,7 @@ main{
 	margin:0 auto;
 	margin-color
 	padding: 20px;
-	background-color: #05241f;
+	background-color: white;
 
 }
 
