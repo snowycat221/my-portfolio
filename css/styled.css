@@ -51,11 +51,11 @@ header h3{
 
 header img{
 	border-radius: 150px; 
-	width: 800px;
+	width: 300px;
 }
 
 main{
-	max-width: 800px;
+	max-width: 300px;
 	margin:0 auto;
 	margin-color
 	padding: 20px;
