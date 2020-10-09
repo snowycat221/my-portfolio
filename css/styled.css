@@ -89,7 +89,7 @@ a{
 }
 
 a:hover{
-	color: white;
+	font-color:white;
 	background-color: black;
 	
 
