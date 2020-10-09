@@ -16,7 +16,7 @@ header{
 	background-color: black;
 	text-align: center;
 	height: 300px;
-	text-shadow: 5px 4px 0px #05241f; 
+	
 	
 }
 
@@ -74,7 +74,7 @@ main img{
 
 h2{
 	font-size:30px;
-	color: red;
+	color: black;
 	margin: 40px 0 10px;
 	font-weight: 1000px;
 	/*text-shadow: 5px 4px 1px #000000b0;*/ 
