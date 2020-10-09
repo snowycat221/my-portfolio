@@ -23,7 +23,10 @@ header{
 h1, h2{
 	/*font-family: 'Squada One', cursive;*/
 	/*font-family: 'Julius Sans One', sans-serif;*/
-    font-family: 'Noto Sans JP', sans-serif;}
+    font-family: 'Noto Sans JP', sans-serif;
+    text-shadow: 0 0 0px #fff, 0 0 0px #fff, 0 0 0px #e6007300, 0 0 20px #dc4a4a, 0 0 50px #e60073, 0 0 60px #e6000000, 0 0 70px #600009;
+
+}
 
 h1{
 	FONT-SIZE:40PX;
@@ -39,14 +42,14 @@ header h1{
   	transform: translate(-50%, -50%);
 }    
 
-header h3{
+/*header h3{
 	font-size: 20px;
 	color: white;
 	position: absolute;
   	top: 50%;
  	left: 50%;
   	transform: translate(-50%, -50%);
-}
+}*/
 
 
 header img{
@@ -85,7 +88,7 @@ a{
 a:hover{
 	font-color: white;
 	background-color: black;
-	text-shadow: 0 0 0px #fff, 0 0 0px #fff, 0 0 0px #e6007300, 0 0 20px #dc4a4a, 0 0 50px #e60073, 0 0 60px #e6000000, 0 0 70px #600009;
+	
 
 }
 
