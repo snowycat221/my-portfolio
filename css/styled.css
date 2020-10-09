@@ -59,7 +59,7 @@ main img{
 }
 
 h2{
-	font-size:40px;
+	font-size:30px;
 	color: red;
 	margin: 40px 0 10px;
 	font-weight: 1000px;
@@ -68,6 +68,9 @@ h2{
 
 }
 
+h3{
+	font-size: 20px;
+}
 
 a{
 	color:#53ac4a;
@@ -75,7 +78,7 @@ a{
 
 a:hover{
 	color: white;
-	background-color: #bc4627;
+	background-color: green;
 }
 
 footer{
